@@ -377,6 +377,9 @@ x402 leverages HTTP's `402 Payment Required` status code for instant stablecoin 
 - [Stellar x402 Facilitator](https://stellar.org/blog/foundation-news/x402-on-stellar) - Production facilitator on OpenZeppelin Relayer (sub-5s settlement)
 - [Pay.sh by Solana + Google Cloud](https://www.banklesstimes.com/articles/2026/05/06/solana-and-google-cloud-launch-pay-sh-for-ai-agent-micropayments/) - May 2026 stablecoin micropayment gateway for AI agents accessing Gemini, BigQuery, Vertex AI, and 50+ APIs
 
+**Live x402 Implementations:**
+- [AgentServices](https://agentservices.to) — Production x402-paid data API platform: 54 services, 37 MCP tools, 41 x402-paid endpoints (crypto prices, DeFi yields, market data, social analytics). On official MCP Registry, first x402 payment confirmed Jul 2026.
+
 ### L402
 
 > Macaroons + Lightning Network micropayments for stateless API authentication
